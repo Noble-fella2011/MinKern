@@ -1,4 +1,5 @@
 //this is basically going to be the core stuff of MinOS, nothing fancy except for drivers, file utility, and the credits.
+//hi Rui you're peak
 #include <stdint.h>
 #include <stddef.h>
 #include "fs.h"
